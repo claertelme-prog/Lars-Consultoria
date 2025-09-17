@@ -1,0 +1,7 @@
+cd /home/ubuntu/lars-consultoria-website
+git init
+git add .
+git commit -m "Primeiro commit do website Lars Consultoria"
+git branch -M main
+git remote add origin https://github.com/claertelme-prog/Lars-Consultoria.git
+git push -u origin main
